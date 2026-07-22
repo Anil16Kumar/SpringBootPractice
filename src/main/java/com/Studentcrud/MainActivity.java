@@ -1,0 +1,11 @@
+package com.Studentcrud;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MainActivity {
+    public static void main(String[] args) {
+        SpringApplication.run(MainActivity.class,args);
+    }
+}
