@@ -1,2 +1,4 @@
 # SpringBootPractice
-spring boot practice 
+Spring Boot practice 
+Practising problems related to Spring Boot concepts  
+Author: Anil Kumar
